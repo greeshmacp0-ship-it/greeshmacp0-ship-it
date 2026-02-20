@@ -39,7 +39,7 @@ Certified Data Analyst with experience in data cleaning, exploratory data analys
 - Applied K-means clustering to identify 3 distinct customer groups.
 - Conducted data preprocessing and feature selection to improve clustering accuracy.
 - Generated insights for targeted marketing and customer retention strategies.
-- https://github.com/greeshmacp0-ship-it/Customer-Segmentation-Analysis/tree/main
+- https://github.com/greeshmacp0-ship-it/Customer-Segmentation-Analysis
 
 ---
 
