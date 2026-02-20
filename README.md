@@ -25,13 +25,14 @@ Certified Data Analyst with experience in data cleaning, exploratory data analys
 - Analyzed retail transaction data using Excel and Power BI.
 - Built dashboards to identify purchasing trends.
 - Identified key customer insights and revenue patterns.
-https://github.com/greeshmacp0-ship-it/Customer-Data-Analysis
+- https://github.com/greeshmacp0-ship-it/Customer-Data-Analysis
 
 
 ### IMDB Movies Analysis
 - Performed SQL-based movie data analysis.
 - Used JOINs and aggregation queries.
 - Evaluated revenue, ratings, and director performance.
+- https://github.com/greeshmacp0-ship-it/IMDB-Movies-Analysis
 
 ---
 
