@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Greeshma C P 👋
 
-<!--
-**greeshmacp0-ship-it/greeshmacp0-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | SQL | Power BI | Excel
 
-Here are some ideas to get you started:
+Certified Data Analyst with experience in data cleaning, exploratory data analysis, data visualization, dashboard development, and KPI reporting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+
+- SQL (JOINs, Subqueries, Aggregations)
+- MySQL
+- Power BI
+- Advanced Excel
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- KPI Analysis
+- Data Visualization
+
+---
+
+## Projects
+
+### Customer Data Analysis
+- Analyzed retail transaction data using Excel and Power BI.
+- Built dashboards to identify purchasing trends.
+- Identified key customer insights and revenue patterns.
+
+### IMDB Movies Analysis
+- Performed SQL-based movie data analysis.
+- Used JOINs and aggregation queries.
+- Evaluated revenue, ratings, and director performance.
+
+---
+
+## Tools & Technologies
+
+SQL | MySQL | Power BI | Excel | Data Analytics
+
+---
+
+## Contact
+
+Email: greeshmacp0@gmail.com  
+LinkedIn: linkedin.com/in/greeshmacp007
