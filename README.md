@@ -26,6 +26,7 @@ Certified Data Analyst with experience in data cleaning, exploratory data analys
 - Built dashboards to identify purchasing trends.
 - Identified key customer insights and revenue patterns.
 
+
 ### IMDB Movies Analysis
 - Performed SQL-based movie data analysis.
 - Used JOINs and aggregation queries.
