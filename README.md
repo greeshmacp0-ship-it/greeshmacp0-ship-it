@@ -34,6 +34,13 @@ Certified Data Analyst with experience in data cleaning, exploratory data analys
 - Evaluated revenue, ratings, and director performance.
 - https://github.com/greeshmacp0-ship-it/IMDB-Movies-Analysis
 
+### Customer Segmentation Analysis (Internship Project)
+- Performed customer segmentation on 3900+ records using Orange Data Mining.
+- Applied K-means clustering to identify 3 distinct customer groups.
+- Conducted data preprocessing and feature selection to improve clustering accuracy.
+- Generated insights for targeted marketing and customer retention strategies.
+- https://github.com/greeshmacp0-ship-it/Customer-Segmentation-Analysis/tree/main
+
 ---
 
 ## Tools & Technologies
