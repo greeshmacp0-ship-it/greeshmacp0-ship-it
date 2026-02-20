@@ -1,4 +1,4 @@
-# Hi, I'm Greeshma C P 👋
+# Hi, I'm Greeshma C P 
 
 ## Data Analyst | SQL | Power BI | Excel
 
