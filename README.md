@@ -52,4 +52,4 @@ SQL | MySQL | Power BI | Excel | Data Analytics
 ## Contact
 
 Email: greeshmacp0@gmail.com  
-LinkedIn: linkedin.com/in/greeshmacp007
+LinkedIn: www.linkedin.com/in/greeshmacp007/
